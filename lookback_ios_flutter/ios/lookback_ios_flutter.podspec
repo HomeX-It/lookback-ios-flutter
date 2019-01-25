@@ -15,10 +15,9 @@ Lookback iOS SDK for Flutter
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'Lookback'
+  s.dependency 'Lookback', '3.0.1'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
   
   s.static_framework = true
 end
-
