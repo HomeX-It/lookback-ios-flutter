@@ -1,2 +1,9 @@
+.idea/
+.DS_Store
+.dart_tool/
 
-lookback_ios_flutter/\.idea/
+.packages
+.pub/
+pubspec.lock
+
+build/
