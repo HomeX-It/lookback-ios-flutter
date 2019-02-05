@@ -1,13 +1,2 @@
-import 'dart:async';
-
-import 'package:flutter/services.dart';
-
-class LookbackIosFlutter {
-  static const MethodChannel _channel =
-      const MethodChannel('lookback_ios_flutter');
-
-  static Future<String> get platformVersion async {
-    final String version = await _channel.invokeMethod('getPlatformVersion');
-    return version;
-  }
-}
+// Unused for now. Future method calls to Lookback client will be made here
+class LookbackIosFlutter {}

@@ -22,12 +22,7 @@ LookbackParticipate *_participate;
 }
 
 - (void)handleMethodCall:(FlutterMethodCall*)call result:(FlutterResult)result {
-  if ([@"getPlatformVersion" isEqualToString:call.method]) {
-      [self.participate setupWithApplicationWindow: [[[UIApplication sharedApplication] windows] firstObject]];
-    result([@"iOS " stringByAppendingString:[[UIDevice currentDevice] systemVersion]]);
-  } else {
     result(FlutterMethodNotImplemented);
-  }
 }
 
 - (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSDictionary*)options
