@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Initial release with support for bringing in Lookback SDK and starting a session from a URL
