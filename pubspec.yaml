@@ -1,7 +1,7 @@
 name: lookback_ios_flutter
 description: A flutter plugin for iOS that pulls in the Lookback SDK
 version: 0.0.1
-author: HomeX
+author: Jason Rai <jrai@homex.com>
 homepage: https://github.com/HomeXLabs/lookback-ios-flutter
 
 environment:
