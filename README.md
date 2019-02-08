@@ -11,7 +11,7 @@ TODO
 - [x] Pub package brings in Lookback CocoaPods
 - [x] Register openURL for starting a participate link session
 - [ ] Better docs
-- [ ] Publish on Dart Pub
+- [x] Publish on Dart Pub
 - [ ] Investigate approach for Custom View Names
 - [ ] Investigate approach for Private Views
 - [ ] Implement setupWithAppToken, shakeToRecord, feedbackBubbleVisible, etc
