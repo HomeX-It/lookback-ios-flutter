@@ -1,6 +1,6 @@
 name: lookback_ios_flutter
 description: Lookback is a product tool that helps you engage your users while they use your product. This library allows you integrate Lookback into your Flutter app easily.
-version: 0.1.0
+version: 0.1.0+1
 author: Jason Rai <jrai@homex.com>
 homepage: https://github.com/HomeXLabs/lookback-ios-flutter
 
